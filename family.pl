@@ -43,7 +43,7 @@ parent(faisal, hassan).
 % 6. Show whether Khan is the brother of Nora.
 % ?- parent(X, khan), parent(X, nora), male(khan).
 % X = ahmad.
-% % Task 1 - Unification Queries and Answers
+%  Task 1 - Unification Queries and Answers
 
 % 1. ?- house = house.
 % true.
